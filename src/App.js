@@ -1,6 +1,6 @@
 import React from 'react';
-import About from './componets/About';
-import Nav from './componets/Nav';
+import About from './components/About';
+import Nav from './components/Nav';
 // import logo from './logo.svg';
 import './App.css';
 
